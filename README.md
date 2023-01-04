@@ -1,4 +1,4 @@
-# django_project - 
+# django_project
 
 ## Notes (Video 1) 
 
